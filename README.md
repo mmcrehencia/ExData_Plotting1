@@ -1,3 +1,11 @@
+## This is the instruction for the "Exploratory Data Analysis" Week 1 Assignment. 
+
+Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
+Download the scripts for plot1.R, plot2.R, plot3.R, plot4.R
+Extract the data into ./Data subdirectory
+Run the scripts
+There are 8 files, 4 are R code and the other 4 are images for the 4 plots
+
 ## Introduction
 
 This assignment uses data from
